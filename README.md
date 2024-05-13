@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sterroso
-- 👀 I’m interested in JavaScript, Python, MySQL, HTML, CSS, mostly backend development, and recently I'm getting into frontend development.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on microservices projects, especially those that help me gain more experience and confidence with JavaScript.
+- 👋 Hi, I’m Sergio Terroso
+- 👀 I’m interested in Backend (Node.js w/Express and .NET Core) and Frontend (React.js / Next.js) development.
+- 🌱 I’m currently learning Cloud Services with AWS.
+- 💞️ I’m looking to collaborate on Cloud-based projects.
 - 📫 You might send me an e-mail to sergio dot terroso at the google's mail domain.
 
 <!---
